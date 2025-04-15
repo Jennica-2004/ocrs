@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: agpool
+pool: Azure Pipelines
 
 steps:
 - task: Maven@4
